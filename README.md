@@ -26,3 +26,5 @@ How many phones have only one feature sensor?
 
 What year had the most phones launched in any year later than 1999? 
 2019
+
+Extra note: the update has the clean out data printed with missing values replaced and incdicated.
